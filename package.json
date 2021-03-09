@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@simonwep/pickr": "1.8.0",
+    "ag-grid-community": "25.0.0",
+    "ag-grid-enterprise": "25.0.0",
+    "ag-grid-react": "25.0.0",
+    "pdfmake": "^0.1.70",
+    "react": "16.11.0",
+    "react-dom": "16.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
