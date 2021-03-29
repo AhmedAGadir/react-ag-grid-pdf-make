@@ -17,10 +17,7 @@ const GridOptionsPanel = props => {
           colId: "country",
           rowGroup: event.target.checked
         }
-      ],
-      defaultState: {
-        rowGroup: false
-      }
+      ]
     });
   };
 
